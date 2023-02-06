@@ -1,7 +1,7 @@
 # Hi there 👋
 ## repositorio / Control de Versiones para pruebas y ejercicios de ***PYTHON***
 
-                        ## Imad Elias Zabaneh
+   ##                           Imad Elias Zabaneh
 
 <!--
 **ElHereje/elhereje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
