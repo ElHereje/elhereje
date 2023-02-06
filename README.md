@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hola a todos.... 👋
 ## ***Repositorio*** y Control de ___Versiones___ para pruebas y ejercicios de ***PYTHON***
 
    ##  Imad Elias Zabaneh
