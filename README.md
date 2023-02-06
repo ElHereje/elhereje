@@ -1,5 +1,5 @@
 # Hi there 👋
-## __Repositorio / Control de Versiones__ para pruebas y ejercicios de ***PYTHON***
+## __Repositorio__ y Control de __Versiones__ para pruebas y ejercicios de ***PYTHON***
 
    ##  Imad Elias Zabaneh
 
